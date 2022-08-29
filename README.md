@@ -1,6 +1,6 @@
-NAVN: Fredrik Enes\n
-Født: 22.10.2000\n
-Bosted: Bergen, Vestland\n
-Kodespråk: Java, HTML, CSS, JS \n
-Studieretning: Dataingeniør \n
-Skole: Høgskulen på Vestlandet\n
+<p>NAVN: Fredrik Enes</p>
+<p>Født: 22.10.2000 </p>
+<p>Bosted: Bergen, Vestland </p>
+<p>Kodespråk: Java, HTML, CSS, JS</p> 
+<p>Studieretning: Dataingeniør </p>
+<p>Skole: Høgskulen på Vestlandet</p>
