@@ -1,4 +1,4 @@
-<p>NAVN: Fredrik Enes</p>
+<p>Navn: Fredrik Enes</p>
 <p>Født: 22.10.2000 </p>
 <p>Bosted: Bergen, Vestland </p>
 <p>Kodespråk: Java, HTML, CSS, JS</p> 
